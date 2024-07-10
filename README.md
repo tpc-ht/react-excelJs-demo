@@ -1,6 +1,6 @@
 ### react + excelJs Demo
 
-[在线预览](https://tpc-ht.github.io/excel-demo/dist/index.html)
+[在线预览](https://tpc-ht.github.io/react-exceljs-demo/dist/index.html)
 
 ![Alt text](image.png)
 
